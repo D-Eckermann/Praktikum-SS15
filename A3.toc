@@ -1,0 +1,8 @@
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Einleitung}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Arten von Strahlung}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Absorption von Strahlung}{2}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Absorption von $\gamma $- Strahlung}{2}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}Absorption von $\beta -$Strahlung}{3}{subsubsection.1.2.2}
+\contentsline {subsection}{\numberline {1.3}Nachweis der Strahlung}{3}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Poisson-Verteilung}{3}{subsection.1.4}
